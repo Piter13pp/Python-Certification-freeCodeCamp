@@ -1,2 +1,2 @@
-###Build a User Configuration Manager - Certification Project (Python Certification course from [freeCodeCamp](https://www.freecodecamp.org/))
-[Instructions](https://www.freecodecamp.org/learn/learn-python-dictionaries-and-sets/lab-user-configuration-manager/build-a-user-configuration-manager)
+### Build a User Configuration Manager - Certification Project (Python Certification course from [freeCodeCamp](https://www.freecodecamp.org/))
+<p>[Instructions](https://www.freecodecamp.org/learn/learn-python-dictionaries-and-sets/lab-user-configuration-manager/build-a-user-configuration-manager)</p>
